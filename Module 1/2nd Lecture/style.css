@@ -1,0 +1,28 @@
+h1 {
+    color:blue;
+    border: 1px dotted red;
+    text-align: center;
+}
+
+p {
+    color: purple;
+    text-align: right;
+}
+
+#name {
+    color: red;
+    border: none;
+    text-align: left;
+}
+
+#spring {
+    color: green;
+    background-color: yellow;
+}
+
+.bordered{
+    border: 1px solid brown;
+    border-radius: 0.3em;
+    margin: 10px;
+    padding: 20px;
+}

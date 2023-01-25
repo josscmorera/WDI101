@@ -1,0 +1,62 @@
+.interview{
+    padding-left: 15%;
+}
+
+.div{
+    padding:10px;
+    margin:10px;
+    border: 2px dotted white;
+    background-color: blueviolet;
+    box-shadow: 5px 10px;
+}
+
+.split{
+    height: 120%;
+    width: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    overflow-x: visible;
+    padding-top: 25%;
+}
+
+.left {
+    left: 0;
+    background-color:cadetblue;
+}
+
+.right {
+    right: 0;
+    background-color: red;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.text{
+    text-align: left;
+}
+
+#name{
+    font-family: cursive;
+}
+
+#github{
+    font-family: fantasy;
+}
+
+#img{
+    width: 50%;
+    border-radius: 50px;
+}
+
+.lii{
+    font-style: italic;
+    margin:10px;
+    color: white;
+}
